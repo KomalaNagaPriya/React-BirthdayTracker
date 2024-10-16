@@ -1,0 +1,30 @@
+{"users":[
+    {
+        "id":0,
+        "name":"Komala",
+        "dob":"04-10-2002",
+        "age":22,
+        "src":"https://cdn.pixabay.com/photo/2016/03/11/17/31/girl-1250679_1280.jpg"
+    },
+    {
+        "id":1,
+        "name":"Jasmitha",
+        "dob":"04-10-2003",
+        "age":21,
+        "src":"https://cdn.pixabay.com/photo/2016/11/19/14/39/girl-1839623_1280.jpg"
+    },
+    {
+        "id":2,
+        "name":"Sree",
+        "dob":"04-10-2002",
+        "age":22,
+        "src":"https://cdn.pixabay.com/photo/2017/01/09/11/23/kids-1966202_1280.jpg"
+    },
+    {
+        "id":3,
+        "name":"Dohaa",
+        "dob":"04-10-2003",
+        "age":21,
+        "src":"https://cdn.pixabay.com/photo/2015/06/12/21/58/child-807547_1280.jpg"
+     }
+]}
